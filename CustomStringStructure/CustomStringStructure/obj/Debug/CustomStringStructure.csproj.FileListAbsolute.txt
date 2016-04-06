@@ -1,0 +1,6 @@
+c:\users\derek scheller\documents\visual studio 2015\Projects\CustomStringStructure\CustomStringStructure\bin\Debug\CustomStringStructure.exe.config
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\CustomStringStructure\CustomStringStructure\bin\Debug\CustomStringStructure.exe
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\CustomStringStructure\CustomStringStructure\bin\Debug\CustomStringStructure.pdb
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\CustomStringStructure\CustomStringStructure\obj\Debug\CustomStringStructure.csprojResolveAssemblyReference.cache
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\CustomStringStructure\CustomStringStructure\obj\Debug\CustomStringStructure.exe
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\CustomStringStructure\CustomStringStructure\obj\Debug\CustomStringStructure.pdb
