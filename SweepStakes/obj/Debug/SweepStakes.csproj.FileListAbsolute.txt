@@ -1,0 +1,6 @@
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\SweepStakes\bin\Debug\SweepStakes.exe.config
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\SweepStakes\bin\Debug\SweepStakes.exe
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\SweepStakes\bin\Debug\SweepStakes.pdb
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\SweepStakes\obj\Debug\SweepStakes.csprojResolveAssemblyReference.cache
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\SweepStakes\obj\Debug\SweepStakes.exe
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\SweepStakes\obj\Debug\SweepStakes.pdb
