@@ -1,1 +1,5 @@
 C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\MultipleProjectWeekApril4th\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb

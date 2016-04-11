@@ -10,6 +10,9 @@ namespace AdvancedCalculator
     {
         static void Main(string[] args)
         {
+            AssemblyFacade test = new AssemblyFacade();
+            test.Run();
+            Console.ReadLine();
         }
     }
 }

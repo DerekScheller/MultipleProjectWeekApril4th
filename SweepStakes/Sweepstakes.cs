@@ -34,7 +34,6 @@ namespace SweepStakes
         public void PrintContestantInfo(Contestant contestant)
         {
             Console.WriteLine(contestant.ToString());
-
         }
     }
 }

@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace AdvancedCalculator
 {
-    abstract class Mather
+    class Mather
     {
-        private List<IDoMath> _action = new List<IDoMath>();
-        public List<IDoMath> Action
+        IDoMath action = null;
+        public double DoMath(double firstNumber, double secondNumber, IDoMath Operator)
         {
-            get { return _action; }
+            this.action = Operator;
+            double answer = action.Operation(firstNumber, secondNumber);
+            return answer;
         }
-        public abstract void EquationCreator();
     }
 }
